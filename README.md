@@ -8,8 +8,8 @@ Please help me design these cards to look like NetRunner cards with cost headers
 
 ### Netrunner cards
 
-image of netrunner card
+![alt tag](http://url/to/img.png)
 
 ### Assembly cards
 
-image of assembly register card
+![alt tag](http://url/to/img.png)
