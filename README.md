@@ -23,3 +23,5 @@ First I'm showing the Assembly cards as they are with my limited graphic design 
 ## Full list of registers and pointers
 
 I've created a list of all 49 cards in an excel document: [data.xlsx](https://github.com/davidkneely/x86runner/blob/master/spreadsheet/data.xlsx)
+
+![Screenshot card data](https://github.com/davidkneely/x86runner/blob/master/images/data.png)
