@@ -20,4 +20,6 @@ First I'm showing the Assembly cards as they are with my limited graphic design 
 
 ![Netrunner cards](https://github.com/davidkneely/x86runner/blob/master/images/netrunner_cards.png)
 
+## Full list of registers and pointers
 
+I've created a list of all 49 cards in an excel document: [data.xlsx](https://github.com/user/davidkneely/x86runner/spreadsheet/data.xlsx)
